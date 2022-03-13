@@ -9,6 +9,7 @@ Stock history was reorganized from oldest to newest, then I calculated stock ret
 All the data processing and preparation were done in excel and results were loaded into Power BI for further visualization and analysis.
 ## Executive Summary
 Nike is the world's largest supplier of athletic shoes and apparel and a major manufacturer of sports equipment, with revenue in excess of US$44.5 billion in 2020. This year is the evidence that Nike has regained its growth momentum in a remarkable way after losing sales in 2019 due to the pandemic.
-The report for the first three quarters of 2021 shows that the company continues to have a successful year with sales growth increasing by 8% compared to the same period last year.
-On March 4, 2022, Nike has 1.58B shares outstanding, market cap of $207.43B and is being traded at $131.18 on New York Stock Exchange (ticker symbol NKE). 
+
+The report for the first three quarters of 2021 shows that the company continues to have a successful year with sales growth increasing by 8% compared to the same period last year. On March 4, 2022, Nike has 1.58B shares outstanding, market cap of $207.43B and is being traded at $131.18 on New York Stock Exchange (ticker symbol NKE). 
+
 A HOLD / BUY is my recommendation toward Nike stock based on my valuation method and final projected price $164.77 which is 25.61% over the current price.
