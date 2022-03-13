@@ -1,4 +1,4 @@
-# Nike-Financial-Stock-Analysis
+# NIKE FINANCIAL AND STOCK ANALYSIS
 ## Business Question.
 Financial Analysis was applied to perform a valuation of Nike current share price whether or not this company is a good investment opportunity and make recommendation to shareholders to Sell, Hold, or Buy.
 ## Data Collection & Processing
